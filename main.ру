@@ -1,0 +1,7 @@
+print("Welcome to AI Language Assistant!")
+print("This program will help you practice languages.")
+
+question = "What language are you learning? "
+answer = input(question)
+
+print("Great! You are learning:", answer)
